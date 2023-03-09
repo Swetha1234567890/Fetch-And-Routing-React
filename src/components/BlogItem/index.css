@@ -1,0 +1,42 @@
+/* Write your CSS code here */
+.item-image {
+  height: 200px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+.topic {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.avatar-img {
+  height: 30px;
+  width: 30px;
+}
+
+.list-item-container {
+  list-style-type: none;
+}
+
+.div-container {
+  display: flex;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #8e8e8e;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.topic {
+  color: #8e8e8e;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.author-info {
+  display: flex;
+  align-items: center;
+}
